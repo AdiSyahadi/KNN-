@@ -1,1 +1,1 @@
-# KNN-
+# KNN ini adalah latihan 
